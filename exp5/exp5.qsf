@@ -49,3 +49,29 @@ set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
 set_global_assignment -name NOMINAL_CORE_SUPPLY_VOLTAGE 1.2V
 set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (VHDL)"
 set_global_assignment -name EDA_OUTPUT_DATA_FORMAT VHDL -section_id eda_simulation
+set_global_assignment -name BDF_FILE exp5.bdf
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "2.5 V"
+set_location_assignment PIN_52 -to A0
+set_location_assignment PIN_55 -to A1
+set_location_assignment PIN_64 -to A2
+set_location_assignment PIN_66 -to A3
+set_location_assignment PIN_106 -to ACLK
+set_location_assignment PIN_67 -to B0
+set_location_assignment PIN_75 -to B1
+set_location_assignment PIN_34 -to B2
+set_location_assignment PIN_84 -to B3
+set_location_assignment PIN_110 -to BCLK
+set_location_assignment PIN_125 -to CTRL
+set_location_assignment PIN_135 -to DM
+set_location_assignment PIN_136 -to LM
+set_location_assignment PIN_60 -to O1
+set_location_assignment PIN_65 -to O2
+set_location_assignment PIN_70 -to O3
+set_location_assignment PIN_74 -to O4
+set_location_assignment PIN_103 -to OCLK
+set_location_assignment PIN_137 -to RM
+set_location_assignment PIN_77 -to OVFL
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
