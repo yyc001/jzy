@@ -21,9 +21,9 @@ applicable agreement for further details.
 (header "graphic" (version "1.4"))
 (pin
 	(input)
-	(rect 120 -72 288 -56)
+	(rect 232 184 400 200)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A0" (rect 5 0 18 12)(font "Arial" ))
+	(text "A0" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -37,9 +37,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 -40 288 -24)
+	(rect 232 200 400 216)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A1" (rect 5 0 18 12)(font "Arial" ))
+	(text "B0" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -53,9 +53,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 -8 288 8)
+	(rect 232 216 400 232)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A2" (rect 5 0 18 12)(font "Arial" ))
+	(text "A1" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -69,9 +69,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 24 288 40)
+	(rect 232 232 400 248)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A3" (rect 5 0 18 12)(font "Arial" ))
+	(text "B1" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -85,9 +85,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 56 288 72)
+	(rect 232 248 400 264)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A4" (rect 5 0 18 12)(font "Arial" ))
+	(text "A2" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -101,9 +101,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 88 288 104)
+	(rect 232 264 400 280)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A5" (rect 5 0 18 12)(font "Arial" ))
+	(text "B2" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -117,9 +117,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 120 288 136)
+	(rect 232 280 400 296)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A6" (rect 5 0 18 12)(font "Arial" ))
+	(text "A3" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -133,9 +133,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 152 288 168)
+	(rect 232 296 400 312)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "A7" (rect 5 0 18 12)(font "Arial" ))
+	(text "B3" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -149,9 +149,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 184 288 200)
+	(rect 232 408 400 424)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B0" (rect 5 0 18 12)(font "Arial" ))
+	(text "A4" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -165,9 +165,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 216 288 232)
+	(rect 232 424 400 440)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B1" (rect 5 0 18 12)(font "Arial" ))
+	(text "B4" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -181,9 +181,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 248 288 264)
+	(rect 232 440 400 456)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B2" (rect 5 0 18 12)(font "Arial" ))
+	(text "A5" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -197,9 +197,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 280 288 296)
+	(rect 232 456 400 472)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B3" (rect 5 0 18 12)(font "Arial" ))
+	(text "B5" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -213,9 +213,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 312 288 328)
+	(rect 232 472 400 488)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B4" (rect 5 0 18 12)(font "Arial" ))
+	(text "A6" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -229,9 +229,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 344 288 360)
+	(rect 232 488 400 504)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B5" (rect 5 0 18 12)(font "Arial" ))
+	(text "B6" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -245,9 +245,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 376 288 392)
+	(rect 232 504 400 520)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B6" (rect 5 0 18 12)(font "Arial" ))
+	(text "A7" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -261,9 +261,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 408 288 424)
+	(rect 232 520 400 536)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "B7" (rect 5 0 18 12)(font "Arial" ))
+	(text "B7" (rect 5 0 17 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -277,9 +277,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 424 288 440)
+	(rect 232 536 400 552)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "AND" (rect 5 0 29 12)(font "Arial" ))
+	(text "AND" (rect 5 0 28 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -293,9 +293,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 440 288 456)
+	(rect 232 552 400 568)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "OR" (rect 5 0 22 12)(font "Arial" ))
+	(text "OR" (rect 5 0 21 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -309,9 +309,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 120 456 288 472)
+	(rect 232 568 400 584)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "XOR" (rect 5 0 28 12)(font "Arial" ))
+	(text "XOR" (rect 5 0 27 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -325,9 +325,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 168 952 184)
+	(rect 624 184 800 200)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O0" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT0" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -341,9 +341,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 184 952 200)
+	(rect 624 200 800 216)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O1" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT1" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -357,9 +357,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 200 952 216)
+	(rect 624 216 800 232)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O2" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT2" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -373,9 +373,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 216 952 232)
+	(rect 624 232 800 248)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O3" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT3" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -389,9 +389,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 232 952 248)
+	(rect 624 408 800 424)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O4" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT4" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -405,9 +405,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 248 952 264)
+	(rect 624 424 800 440)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O5" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT5" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -421,9 +421,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 264 952 280)
+	(rect 624 440 800 456)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O6" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT6" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -437,9 +437,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 776 280 952 296)
+	(rect 624 456 800 472)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
-	(text "O7" (rect 90 0 104 12)(font "Arial" ))
+	(text "OUT7" (rect 90 0 118 12)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 0 8)(pt 52 8))
@@ -452,9 +452,9 @@ applicable agreement for further details.
 	)
 )
 (symbol
-	(rect 536 144 648 496)
-	(text "8opt3" (rect 5 0 36 14)(font "Arial" (font_size 8)))
-	(text "inst" (rect 8 336 25 348)(font "Arial" ))
+	(rect 512 160 624 384)
+	(text "4opt3" (rect 5 0 36 14)(font "Arial" (font_size 8)))
+	(text "inst" (rect 8 208 25 220)(font "Arial" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -514,79 +514,23 @@ applicable agreement for further details.
 	(port
 		(pt 0 160)
 		(input)
-		(text "A4" (rect 0 0 16 14)(font "Arial" (font_size 8)))
-		(text "A4" (rect 21 155 37 169)(font "Arial" (font_size 8)))
+		(text "AND" (rect 0 0 25 14)(font "Arial" (font_size 8)))
+		(text "AND" (rect 21 155 46 169)(font "Arial" (font_size 8)))
 		(line (pt 0 160)(pt 16 160))
 	)
 	(port
 		(pt 0 176)
 		(input)
-		(text "B4" (rect 0 0 15 14)(font "Arial" (font_size 8)))
-		(text "B4" (rect 21 171 36 185)(font "Arial" (font_size 8)))
+		(text "OR" (rect 0 0 17 14)(font "Arial" (font_size 8)))
+		(text "OR" (rect 21 171 38 185)(font "Arial" (font_size 8)))
 		(line (pt 0 176)(pt 16 176))
 	)
 	(port
 		(pt 0 192)
 		(input)
-		(text "A5" (rect 0 0 16 14)(font "Arial" (font_size 8)))
-		(text "A5" (rect 21 187 37 201)(font "Arial" (font_size 8)))
-		(line (pt 0 192)(pt 16 192))
-	)
-	(port
-		(pt 0 208)
-		(input)
-		(text "B5" (rect 0 0 15 14)(font "Arial" (font_size 8)))
-		(text "B5" (rect 21 203 36 217)(font "Arial" (font_size 8)))
-		(line (pt 0 208)(pt 16 208))
-	)
-	(port
-		(pt 0 224)
-		(input)
-		(text "A6" (rect 0 0 16 14)(font "Arial" (font_size 8)))
-		(text "A6" (rect 21 219 37 233)(font "Arial" (font_size 8)))
-		(line (pt 0 224)(pt 16 224))
-	)
-	(port
-		(pt 0 240)
-		(input)
-		(text "B6" (rect 0 0 15 14)(font "Arial" (font_size 8)))
-		(text "B6" (rect 21 235 36 249)(font "Arial" (font_size 8)))
-		(line (pt 0 240)(pt 16 240))
-	)
-	(port
-		(pt 0 256)
-		(input)
-		(text "A7" (rect 0 0 16 14)(font "Arial" (font_size 8)))
-		(text "A7" (rect 21 251 37 265)(font "Arial" (font_size 8)))
-		(line (pt 0 256)(pt 16 256))
-	)
-	(port
-		(pt 0 272)
-		(input)
-		(text "B7" (rect 0 0 15 14)(font "Arial" (font_size 8)))
-		(text "B7" (rect 21 267 36 281)(font "Arial" (font_size 8)))
-		(line (pt 0 272)(pt 16 272))
-	)
-	(port
-		(pt 0 288)
-		(input)
-		(text "AND" (rect 0 0 25 14)(font "Arial" (font_size 8)))
-		(text "AND" (rect 21 283 46 297)(font "Arial" (font_size 8)))
-		(line (pt 0 288)(pt 16 288))
-	)
-	(port
-		(pt 0 304)
-		(input)
-		(text "OR" (rect 0 0 17 14)(font "Arial" (font_size 8)))
-		(text "OR" (rect 21 299 38 313)(font "Arial" (font_size 8)))
-		(line (pt 0 304)(pt 16 304))
-	)
-	(port
-		(pt 0 320)
-		(input)
 		(text "XOR" (rect 0 0 25 14)(font "Arial" (font_size 8)))
-		(text "XOR" (rect 21 315 46 329)(font "Arial" (font_size 8)))
-		(line (pt 0 320)(pt 16 320))
+		(text "XOR" (rect 21 187 46 201)(font "Arial" (font_size 8)))
+		(line (pt 0 192)(pt 16 192))
 	)
 	(port
 		(pt 112 32)
@@ -616,207 +560,235 @@ applicable agreement for further details.
 		(text "OUT3" (rect 60 75 91 89)(font "Arial" (font_size 8)))
 		(line (pt 112 80)(pt 96 80))
 	)
+	(drawing
+		(rectangle (rect 16 16 96 208))
+	)
+)
+(symbol
+	(rect 512 384 624 608)
+	(text "4opt3" (rect 5 0 36 14)(font "Arial" (font_size 8)))
+	(text "inst1" (rect 8 208 31 220)(font "Arial" ))
 	(port
-		(pt 112 96)
-		(output)
-		(text "OUT4" (rect 0 0 31 14)(font "Arial" (font_size 8)))
-		(text "OUT4" (rect 60 91 91 105)(font "Arial" (font_size 8)))
-		(line (pt 112 96)(pt 96 96))
+		(pt 0 32)
+		(input)
+		(text "A0" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "A0" (rect 21 27 37 41)(font "Arial" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
 	)
 	(port
-		(pt 112 112)
-		(output)
-		(text "OUT5" (rect 0 0 31 14)(font "Arial" (font_size 8)))
-		(text "OUT5" (rect 60 107 91 121)(font "Arial" (font_size 8)))
-		(line (pt 112 112)(pt 96 112))
+		(pt 0 48)
+		(input)
+		(text "B0" (rect 0 0 15 14)(font "Arial" (font_size 8)))
+		(text "B0" (rect 21 43 36 57)(font "Arial" (font_size 8)))
+		(line (pt 0 48)(pt 16 48))
 	)
 	(port
-		(pt 112 128)
-		(output)
-		(text "OUT6" (rect 0 0 31 14)(font "Arial" (font_size 8)))
-		(text "OUT6" (rect 60 123 91 137)(font "Arial" (font_size 8)))
-		(line (pt 112 128)(pt 96 128))
+		(pt 0 64)
+		(input)
+		(text "A1" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "A1" (rect 21 59 37 73)(font "Arial" (font_size 8)))
+		(line (pt 0 64)(pt 16 64))
 	)
 	(port
-		(pt 112 144)
+		(pt 0 80)
+		(input)
+		(text "B1" (rect 0 0 15 14)(font "Arial" (font_size 8)))
+		(text "B1" (rect 21 75 36 89)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "A2" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "A2" (rect 21 91 37 105)(font "Arial" (font_size 8)))
+		(line (pt 0 96)(pt 16 96))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "B2" (rect 0 0 15 14)(font "Arial" (font_size 8)))
+		(text "B2" (rect 21 107 36 121)(font "Arial" (font_size 8)))
+		(line (pt 0 112)(pt 16 112))
+	)
+	(port
+		(pt 0 128)
+		(input)
+		(text "A3" (rect 0 0 16 14)(font "Arial" (font_size 8)))
+		(text "A3" (rect 21 123 37 137)(font "Arial" (font_size 8)))
+		(line (pt 0 128)(pt 16 128))
+	)
+	(port
+		(pt 0 144)
+		(input)
+		(text "B3" (rect 0 0 15 14)(font "Arial" (font_size 8)))
+		(text "B3" (rect 21 139 36 153)(font "Arial" (font_size 8)))
+		(line (pt 0 144)(pt 16 144))
+	)
+	(port
+		(pt 0 160)
+		(input)
+		(text "AND" (rect 0 0 25 14)(font "Arial" (font_size 8)))
+		(text "AND" (rect 21 155 46 169)(font "Arial" (font_size 8)))
+		(line (pt 0 160)(pt 16 160))
+	)
+	(port
+		(pt 0 176)
+		(input)
+		(text "OR" (rect 0 0 17 14)(font "Arial" (font_size 8)))
+		(text "OR" (rect 21 171 38 185)(font "Arial" (font_size 8)))
+		(line (pt 0 176)(pt 16 176))
+	)
+	(port
+		(pt 0 192)
+		(input)
+		(text "XOR" (rect 0 0 25 14)(font "Arial" (font_size 8)))
+		(text "XOR" (rect 21 187 46 201)(font "Arial" (font_size 8)))
+		(line (pt 0 192)(pt 16 192))
+	)
+	(port
+		(pt 112 32)
 		(output)
-		(text "OUT7" (rect 0 0 31 14)(font "Arial" (font_size 8)))
-		(text "OUT7" (rect 60 139 91 153)(font "Arial" (font_size 8)))
-		(line (pt 112 144)(pt 96 144))
+		(text "OUT0" (rect 0 0 31 14)(font "Arial" (font_size 8)))
+		(text "OUT0" (rect 60 27 91 41)(font "Arial" (font_size 8)))
+		(line (pt 112 32)(pt 96 32))
+	)
+	(port
+		(pt 112 48)
+		(output)
+		(text "OUT1" (rect 0 0 31 14)(font "Arial" (font_size 8)))
+		(text "OUT1" (rect 60 43 91 57)(font "Arial" (font_size 8)))
+		(line (pt 112 48)(pt 96 48))
+	)
+	(port
+		(pt 112 64)
+		(output)
+		(text "OUT2" (rect 0 0 31 14)(font "Arial" (font_size 8)))
+		(text "OUT2" (rect 60 59 91 73)(font "Arial" (font_size 8)))
+		(line (pt 112 64)(pt 96 64))
+	)
+	(port
+		(pt 112 80)
+		(output)
+		(text "OUT3" (rect 0 0 31 14)(font "Arial" (font_size 8)))
+		(text "OUT3" (rect 60 75 91 89)(font "Arial" (font_size 8)))
+		(line (pt 112 80)(pt 96 80))
 	)
 	(drawing
-		(rectangle (rect 16 16 96 336))
+		(rectangle (rect 16 16 96 208))
 	)
 )
 (connector
-	(pt 536 176)
-	(pt 528 176)
+	(pt 400 416)
+	(pt 512 416)
 )
 (connector
-	(pt 536 208)
-	(pt 520 208)
+	(pt 400 432)
+	(pt 512 432)
 )
 (connector
-	(pt 536 240)
+	(pt 400 448)
+	(pt 512 448)
+)
+(connector
+	(pt 400 464)
+	(pt 512 464)
+)
+(connector
+	(pt 400 480)
+	(pt 512 480)
+)
+(connector
+	(pt 400 496)
+	(pt 512 496)
+)
+(connector
+	(pt 400 512)
+	(pt 512 512)
+)
+(connector
+	(pt 400 528)
+	(pt 512 528)
+)
+(connector
+	(pt 416 544)
+	(pt 416 320)
+)
+(connector
+	(pt 432 560)
+	(pt 432 336)
+)
+(connector
+	(pt 448 576)
+	(pt 448 352)
+)
+(connector
+	(pt 400 192)
+	(pt 512 192)
+)
+(connector
+	(pt 400 208)
+	(pt 512 208)
+)
+(connector
+	(pt 400 224)
+	(pt 512 224)
+)
+(connector
+	(pt 400 240)
 	(pt 512 240)
 )
 (connector
-	(pt 536 272)
-	(pt 504 272)
+	(pt 400 256)
+	(pt 512 256)
 )
 (connector
-	(pt 536 304)
-	(pt 496 304)
+	(pt 400 272)
+	(pt 512 272)
 )
 (connector
-	(pt 536 336)
-	(pt 488 336)
+	(pt 400 288)
+	(pt 512 288)
 )
 (connector
-	(pt 536 368)
-	(pt 480 368)
+	(pt 400 304)
+	(pt 512 304)
 )
 (connector
-	(pt 536 400)
-	(pt 472 400)
+	(pt 416 320)
+	(pt 512 320)
 )
 (connector
-	(pt 288 192)
-	(pt 536 192)
+	(pt 432 336)
+	(pt 512 336)
 )
 (connector
-	(pt 288 224)
-	(pt 536 224)
+	(pt 448 352)
+	(pt 512 352)
 )
 (connector
-	(pt 288 256)
-	(pt 536 256)
+	(pt 400 544)
+	(pt 416 544)
 )
 (connector
-	(pt 288 288)
-	(pt 536 288)
+	(pt 416 544)
+	(pt 512 544)
 )
 (connector
-	(pt 288 320)
-	(pt 536 320)
+	(pt 400 560)
+	(pt 432 560)
 )
 (connector
-	(pt 288 352)
-	(pt 536 352)
+	(pt 432 560)
+	(pt 512 560)
 )
 (connector
-	(pt 288 384)
-	(pt 536 384)
+	(pt 400 576)
+	(pt 448 576)
 )
 (connector
-	(pt 288 416)
-	(pt 536 416)
+	(pt 448 576)
+	(pt 512 576)
 )
-(connector
-	(pt 536 432)
-	(pt 288 432)
-)
-(connector
-	(pt 536 448)
-	(pt 288 448)
-)
-(connector
-	(pt 536 464)
-	(pt 288 464)
-)
-(connector
-	(pt 528 176)
-	(pt 528 -64)
-)
-(connector
-	(pt 528 -64)
-	(pt 288 -64)
-)
-(connector
-	(pt 520 208)
-	(pt 520 -32)
-)
-(connector
-	(pt 520 -32)
-	(pt 288 -32)
-)
-(connector
-	(pt 512 240)
-	(pt 512 0)
-)
-(connector
-	(pt 512 0)
-	(pt 288 0)
-)
-(connector
-	(pt 504 272)
-	(pt 504 32)
-)
-(connector
-	(pt 504 32)
-	(pt 288 32)
-)
-(connector
-	(pt 496 304)
-	(pt 496 64)
-)
-(connector
-	(pt 496 64)
-	(pt 288 64)
-)
-(connector
-	(pt 488 336)
-	(pt 488 96)
-)
-(connector
-	(pt 488 96)
-	(pt 288 96)
-)
-(connector
-	(pt 480 368)
-	(pt 480 128)
-)
-(connector
-	(pt 480 128)
-	(pt 288 128)
-)
-(connector
-	(pt 472 400)
-	(pt 472 160)
-)
-(connector
-	(pt 472 160)
-	(pt 288 160)
-)
-(connector
-	(pt 648 192)
-	(pt 776 192)
-)
-(connector
-	(pt 648 208)
-	(pt 776 208)
-)
-(connector
-	(pt 648 224)
-	(pt 776 224)
-)
-(connector
-	(pt 648 240)
-	(pt 776 240)
-)
-(connector
-	(pt 648 256)
-	(pt 776 256)
-)
-(connector
-	(pt 648 272)
-	(pt 776 272)
-)
-(connector
-	(pt 648 288)
-	(pt 776 288)
-)
-(connector
-	(pt 776 176)
-	(pt 648 176)
-)
+(junction (pt 416 544))
+(junction (pt 432 560))
+(junction (pt 448 576))

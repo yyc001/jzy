@@ -17,13 +17,13 @@
 # -------------------------------------------------------------------------- #
 #
 # Quartus II 64-Bit
-# Version 13.1.0 Build 162 10/23/2013 SJ Full Version
-# Date created = 02:56:16  October 04, 2021
+# Version 13.0.0 Build 156 04/24/2013 SJ Full Version
+# Date created = 13:26:17  October 04, 2021
 #
 # -------------------------------------------------------------------------- #
 
-QUARTUS_VERSION = "13.1"
-DATE = "02:56:16  October 04, 2021"
+QUARTUS_VERSION = "13.0"
+DATE = "13:26:17  October 04, 2021"
 
 # Revisions
 
