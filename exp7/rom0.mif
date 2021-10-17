@@ -1,0 +1,84 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=24;
+DEPTH=64;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	[00..02]  :   FFFFFF;
+	03  :   000543;
+	04  :   000054;
+	05  :   232443;
+	[06..07]  :   000000;
+	08  :   0015B3;
+	09  :   087A23;
+	0A  :   0014D5;
+	0B  :   086486;
+	0C  :   0F423F;
+	0D  :   005304;
+	[0E..0F]  :   0F423F;
+	10  :   000070;
+	11  :   001486;
+	12  :   07B2F6;
+	13  :   AAAB77;
+	14  :   008378;
+	15  :   053D94;
+	16  :   611A03;
+	17  :   000000;
+	18  :   007DE7;
+	19  :   000D10;
+	1A  :   5B8A2C;
+	1B  :   06A4FE;
+	1C  :   0019B1;
+	1D  :   0000DE;
+	1E  :   006047;
+	1F  :   036815;
+	20  :   00ACBF;
+	21  :   001101;
+	22  :   00AA99;
+	23  :   00153A;
+	24  :   4271F2;
+	25  :   007E57;
+	26  :   41FBE3;
+	27  :   000000;
+	28  :   3179C3;
+	29  :   0000EB;
+	2A  :   000229;
+	2B  :   00110F;
+	2C  :   0875C1;
+	2D  :   005AC2;
+	2E  :   00D527;
+	2F  :   0010E3;
+	30  :   0698D9;
+	31  :   01860E;
+	32  :   00B1E9;
+	33  :   001164;
+	34  :   069930;
+	35  :   000007;
+	36  :   0519A3;
+	37  :   000000;
+	38  :   00CC85;
+	39  :   0003DD;
+	3A  :   001DFA;
+	3B  :   000D6B;
+	3C  :   0001BD;
+	3D  :   5139E5;
+	3E  :   0E6495;
+	3F  :   03B62B;
+END;
